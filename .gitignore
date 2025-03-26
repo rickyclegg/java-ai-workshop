@@ -27,3 +27,26 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+*.iws
+out/
+
+# Gradle specific files
+.gradle/
+build/
+
+# Java specific files
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# OS specific files
+.DS_Store
+Thumbs.db
